@@ -2,6 +2,8 @@ package br.com.tmvinicius.agendatel.model;
 
 import java.time.LocalDateTime;
 
+import com.fasterxml.jackson.annotation.JsonFormat;
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -25,8 +27,8 @@ public class Contatos {
 	@Column(name = "nome", length = 255, nullable = false)
 	private String nome;
 
-	@Column(name = "numerocel", length = 9, nullable = false)
-	private Integer numeroCel;
+	@Column(name = "numerocel", length = 15, nullable = false)
+	private String numeroCel;
 
 	@Column(name = "DDD", length = 3, nullable = false)
 	private Integer ddd;
@@ -34,6 +36,7 @@ public class Contatos {
 	@Column(name = "endereco", length = 255)
 	private String endereco;
 
+	@JsonFormat(shape = JsonFormat.Shape.STRING, pattern = "dd/MM/yyyy HH:mm:ss")
 	@Column(name = "datar")
 	private LocalDateTime dataRegistro;
 

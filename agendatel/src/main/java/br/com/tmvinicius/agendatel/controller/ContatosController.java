@@ -25,7 +25,7 @@ private final ContatosService service;
 	
 	@PostMapping("/contatos")
 	public Contatos addContato(@RequestBody Contatos contat){
-		return service.addNovoContato(contat);
+		return service.addNewContato(contat);
 	}
 	
 	

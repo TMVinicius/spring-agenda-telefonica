@@ -1,0 +1,40 @@
+package br.com.tmvinicius.agendatel.model;
+
+import java.time.LocalDateTime;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Entity
+@Table(name = "contatos")
+public class Contatos {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	@Column(name = "id", nullable = false)
+	private Integer id;
+
+	@Column(name = "nome", length = 255, nullable = false)
+	private String nome;
+
+	@Column(name = "numerocel", length = 9, nullable = false)
+	private Integer numeroCel;
+
+	@Column(name = "DDD", length = 3, nullable = false)
+	private Integer ddd;
+
+	@Column(name = "endereco", length = 255)
+	private String endereco;
+
+	@Column(name = "datar")
+	private LocalDateTime dataRegistro;
+
+}
