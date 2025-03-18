@@ -1,0 +1,29 @@
+package br.com.tmvinicius.agendatel.service;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import br.com.tmvinicius.agendatel.model.Contatos;
+import br.com.tmvinicius.agendatel.repository.ContatosRepo;
+import lombok.RequiredArgsConstructor;
+
+
+@RequiredArgsConstructor
+@Service
+public class ContatosService {
+
+private final ContatosRepo contatorepo;
+	
+	public List<Contatos> getAllContatos(){
+		return (List<Contatos>)contatorepo.findAll();
+	}
+	
+	public Contatos addNovoContato(Contatos ct) {
+		
+		ct.setNome(ct.getNome().toLowerCase());
+		return contatorepo.save(ct);
+	}
+	
+	
+}

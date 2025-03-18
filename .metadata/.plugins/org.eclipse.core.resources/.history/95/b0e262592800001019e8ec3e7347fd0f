@@ -1,0 +1,5 @@
+package br.com.tmvinicius.agendatel.controller;
+
+public class ContatosController {
+
+}

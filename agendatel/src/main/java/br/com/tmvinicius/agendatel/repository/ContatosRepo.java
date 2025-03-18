@@ -1,0 +1,9 @@
+package br.com.tmvinicius.agendatel.repository;
+
+import org.springframework.data.repository.CrudRepository;
+
+import br.com.tmvinicius.agendatel.model.Contatos;
+
+public interface ContatosRepo extends CrudRepository<Contatos, Integer>{
+
+}
