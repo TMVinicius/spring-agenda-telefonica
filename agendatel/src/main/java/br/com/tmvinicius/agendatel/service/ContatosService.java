@@ -1,12 +1,9 @@
 package br.com.tmvinicius.agendatel.service;
 
 import java.time.LocalDateTime;
-import java.time.format.DateTimeFormatter;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-
-import com.fasterxml.jackson.annotation.JsonFormat;
 
 import br.com.tmvinicius.agendatel.model.Contatos;
 import br.com.tmvinicius.agendatel.repository.ContatosRepo;
@@ -19,19 +16,22 @@ public class ContatosService {
 	private final ContatosRepo contatorepo;
 
 	public List<Contatos> getAllContatos() {
-		return (List<Contatos>) contatorepo.findAll();
+		List<Contatos> lista = (List<Contatos>) contatorepo.findAll();
+		lista.sort((c1,c2) -> c1.getNome().compareTo(c2.getNome()));
+		return lista;
+	}
+	
+	public List<Contatos> getAllContatosByData() {
+		List<Contatos> lista = (List<Contatos>) contatorepo.findAll();
+		lista.sort((c1,c2) -> c2.getDataRegistro().compareTo(c1.getDataRegistro()));
+		return lista;
 	}
 
 	public Contatos addNewContato(Contatos ct) {
-
 		ct.setNome(ct.getNome().toLowerCase());
 		ct.setNumeroCel("(" + ct.getDdd() + ")" + ct.getNumeroCel().toString().substring(0, 1) + " "
 				+ ct.getNumeroCel().toString().substring(1, 5) + "-" + ct.getNumeroCel().toString().substring(5));
 
-		DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm:ss");
-		LocalDateTime ldt = LocalDateTime.now();
-		
-		
 		ct.setDataRegistro(LocalDateTime.now());
 
 		return contatorepo.save(ct);

@@ -31,6 +31,9 @@ private final ContatosService service;
 	
 	
 	
-	
+	@GetMapping("/contatos/data")
+	public List<Contatos> getAllContatosByData(){
+		return service.getAllContatosByData();
+	}
 	
 }
