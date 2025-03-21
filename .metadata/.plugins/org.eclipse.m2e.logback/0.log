@@ -889,3 +889,150 @@ org.eclipse.core.runtime.CoreException: Launch configuration ApiAgendaApplicatio
 2025-03-19 11:32:35,722 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-03-19 11:32:35,727 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-03-19 11:32:35,729 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-19 22:47:09,662 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-20 11:02:01,950 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-03-20 11:02:38,111 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:02:38,134 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:02:38,139 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:02:40,797 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:02:40,816 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:02:40,820 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\rocketseat\JAVA-NLW\events\src\test\resources
+2025-03-20 11:08:16,472 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:08:16,478 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:08:16,481 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:19:27,636 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:19:27,642 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:19:27,646 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:20:29,673 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:20:29,678 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:20:29,682 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:20:48,006 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:20:48,012 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:20:48,017 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:03,505 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:03,511 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:03,515 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:05,537 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:05,544 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:05,550 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:11,480 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:11,485 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:11,488 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:21,240 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:21,245 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:21,248 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:29,471 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:29,475 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:29,478 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:21:46,361 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:21:46,362 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:21:46,364 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:01,931 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:01,936 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:01,939 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:05,259 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:05,264 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:05,266 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:07,025 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:07,030 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:07,033 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:17,831 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:17,836 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:17,839 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:26,169 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:26,173 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:26,176 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:34,750 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:34,755 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:34,760 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:22:58,098 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:22:58,103 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:22:58,106 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:24:31,453 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:24:31,457 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:24:31,460 [Worker-19: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:35:10,577 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:35:10,582 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:35:10,584 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:36:22,980 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:36:22,984 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:36:22,986 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:37:50,118 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:37:50,122 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:37:50,125 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:37:59,744 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:37:59,749 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:37:59,752 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:44:50,657 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:44:50,663 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:44:50,665 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:46:33,250 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:46:33,255 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:46:33,257 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:47:32,424 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:47:32,429 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:47:32,431 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:47:51,945 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:47:51,949 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:47:51,952 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:52:08,485 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:52:08,489 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:52:08,492 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:54:01,128 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:54:01,133 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:54:01,135 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:54:25,645 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:54:25,651 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:54:25,655 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:58:33,437 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:58:33,442 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:58:33,445 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:58:57,618 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:58:57,622 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:58:57,624 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:59:35,853 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:59:35,862 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:59:35,864 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 11:59:48,696 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 11:59:48,700 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 11:59:48,702 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:05:18,587 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:05:18,592 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:05:18,595 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:06:45,179 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:06:45,184 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:06:45,187 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:07:53,216 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:07:53,220 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:07:53,223 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:09:53,143 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:09:53,147 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:09:53,149 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:12:50,498 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:12:50,503 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:12:50,505 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-20 12:12:56,299 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-20 12:12:56,304 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-20 12:12:56,306 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 10:45:42,175 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-03-21 10:49:16,096 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 10:49:16,113 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 10:49:16,119 [Worker-11: Launching AgendatelApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 10:50:40,149 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 10:50:40,156 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 10:50:40,159 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 10:51:41,620 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 10:51:41,625 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 10:51:41,627 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 10:53:42,430 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 10:53:42,435 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 10:53:42,438 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 10:54:14,622 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 10:54:14,628 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 10:54:14,631 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 11:01:18,743 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 11:01:18,749 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 11:01:18,751 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources
+2025-03-21 11:03:56,762 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-03-21 11:03:56,767 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-03-21 11:03:56,769 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Backup\2-Programacao\0-Projetos\ws-eclipse 2025\Spring-Agenda-Telefonica\agendatel\src\test\resources

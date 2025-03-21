@@ -1,0 +1,64 @@
+package br.com.tmvinicius.agendatel.controller;
+
+import java.util.List;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+
+import br.com.tmvinicius.agendatel.model.Contatos;
+import br.com.tmvinicius.agendatel.service.ContatosService;
+import lombok.RequiredArgsConstructor;
+
+
+@RestController
+@RequiredArgsConstructor
+public class ContatosController {
+
+private final ContatoService service;
+	
+	@GetMapping("/contatos")
+	public List<Contato> getAllContatos(){
+		return service.getAllContatos();
+	}
+	
+	@PostMapping("/contatos")
+	public Contatos addContato(@RequestBody Contato contat){
+		return service.addNewContato(contat);
+	}
+	
+	@DeleteMapping("/contato/{Name}")
+	public ResponseEntity<Contato> removeContato(@PathVariable String Name) {
+		
+		Contatos ctt = service.findByName(Name);
+		if (ctt != null) {
+			ResponseEntity.ok().body(ctt);
+			return service.
+		}
+		
+		return null;
+	}
+	
+	
+	@GetMapping("/contato/{Name}")
+	public ResponseEntity<Contatos> findByNameContato(@PathVariable String Name) {
+		
+		Contatos ctt = service.findByName(Name);
+		if (ctt != null) {
+			
+			return ResponseEntity.ok().body(ctt);
+		}
+		
+		return null;
+	}
+	
+	@GetMapping("/contatos/data")
+	public List<Contatos> getAllContatosByData(){
+		return service.getAllContatosByData();
+	}
+	
+}
