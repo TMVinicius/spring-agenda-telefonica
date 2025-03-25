@@ -2,6 +2,7 @@ package br.com.tmvinicius.agendatel.service;
 
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
@@ -42,15 +43,11 @@ public class ContatosService {
 	}
 	
 	public Contato findById(Integer id) {
-		return contatorepo.findById(id).orElse(null);
+		return contatorepo.findById(id);
 	}
 	
 	public void removeContato(Contato ctt) {
 		contatorepo.delete(ctt);
-	}
-	
-	public Contato updateContato(Contato ctt) {
-		return contatorepo.save(ctt);
 	}
 	
 }

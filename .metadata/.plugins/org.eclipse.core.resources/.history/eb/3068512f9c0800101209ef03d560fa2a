@@ -1,7 +1,7 @@
 package br.com.tmvinicius.agendatel.controller;
 
-import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Optional;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
@@ -43,32 +43,22 @@ public class ContatosController {
 	}
 
 	@GetMapping("/contato/{id}")
-	public ResponseEntity<?> findById(@PathVariable Integer id) {
+	public ResponseEntity<Optional<Contato>> findById(@PathVariable Integer id) {
 
-		Contato ctt = service.findById(id);
+		Optional<Contato> ctt = service.findById(id);
 		if (ctt != null) {
 			return ResponseEntity.ok().body(ctt);
 		}
 		return ResponseEntity.notFound().build();
 	}
-
-	@PutMapping("/contato/{id}")
-	public Contato updateContato(@PathVariable Integer id, @RequestBody Contato contatoDetails) {
-
-		Contato updateContato = service.findById(id);
-		if (updateContato != null) {
-			
-			updateContato.setNome(contatoDetails.getNome());
-			updateContato.setNumeroCel(contatoDetails.getNumeroCel());
-			updateContato.setDdd(contatoDetails.getDdd());
-			updateContato.setEndereco(contatoDetails.getEndereco());
-			updateContato.setDataRegistro(LocalDateTime.now());
-			return service.updateContato(updateContato);
-		}
-		return null;
-
+	
+	@PutMapping("{id}")
+	public ResponseEntity<Contato> updateContato(@PathVariable Integer id){
 		
-
+		Optional<Contato> updateContato = service.findById(id);
+		
+		updateContato.set
+		
 	}
 
 	@PostMapping("/contatos")
